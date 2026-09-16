@@ -62,15 +62,14 @@ Both the local `index.html` and the hosted GitHub Pages version run the browser-
 <td align="center" width="50%">
 
 ### 🇮🇳 Desi Bilingual Chat
+<video controls width="100%" src="https://github.com/user-attachments/assets/885a29d1-e019-48cd-819d-afe51611d0cf"></video>
 
-<video controls width="100%" src="https://github.com/user-attachments/assets/4bd160f8-af2e-4b96-891c-ba209853f49e"></video>
 
 </td>
 <td align="center" width="50%">
 
 ### 📖 Story Based
-
-<video controls width="100%" src="https://github.com/user-attachments/assets/b43b7cf9-0c06-47cb-8ac9-3cb8d5435ba5"></video>
+<video controls width="100%" src="https://github.com/user-attachments/assets/400cd88a-7c6c-47c5-8431-c0643d6e61c1"></video>
 
 </td>
 </tr>
@@ -79,15 +78,16 @@ Both the local `index.html` and the hosted GitHub Pages version run the browser-
 <td align="center" width="50%">
 
 ### 🌍 Multilingual Meetup
+<video controls width="100%" src="https://github.com/user-attachments/assets/4bd160f8-af2e-4b96-891c-ba209853f49e"></video>
 
-<video controls width="100%" src="https://github.com/user-attachments/assets/885a29d1-e019-48cd-819d-afe51611d0cf"></video>
 
 </td>
 <td align="center" width="50%">
 
 ### 📰 Breaking News
 
-<video controls width="100%" src="https://github.com/user-attachments/assets/400cd88a-7c6c-47c5-8431-c0643d6e61c1"></video>
+<video controls width="100%" src="https://github.com/user-attachments/assets/b43b7cf9-0c06-47cb-8ac9-3cb8d5435ba5"></video>
+
 
 </td>
 </tr>
