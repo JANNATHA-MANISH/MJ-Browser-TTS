@@ -1,3 +1,4 @@
+
 # MJ Browser Based TTS — Supertonic 3
 
 ![MJ Browser Based TTS](assets/tts_image.png)
@@ -8,6 +9,8 @@
 Supertonic 3 is downloaded once, loaded with **WebGPU**, and cached locally.  
 After that, MJ can reload the model in **~3 seconds** and generate speech without a server.
 
+🚀 **[Open MJ Browser TTS](https://jannatha-manish.github.io/MJ-Browser-TTS/)**
+
 ---
 
 ## ⚡ At a Glance
@@ -17,39 +20,61 @@ After that, MJ can reload the model in **~3 seconds** and generate speech withou
 |                        |                                       |
 | ---------------------- | ------------------------------------- |
 | 🌍 **Languages**       | **31**                                |
-| 🚀 **Published speed** | **~71–167× realtime***              |
-| 🧠 **Parameters**      | **~99M**                             |
+| 🚀 **Published speed** | **~71–167× realtime***               |
+| 🧠 **Parameters**      | **~99M**                              |
 | 🎧 **Audio**           | **44.1 kHz**                          |
 | 🎙️ **Voices**         | **10**                                |
-| 💾 **Model**           | **~400 MB**                          |
+| 💾 **Model**           | **~400 MB**                           |
 | 🔒 **Inference**       | **100% Local**                        |
 | ⚡ **Acceleration**     | **WebGPU**                            |
 | 📱 **Target**          | **Browser · Mobile · Desktop · Edge** |
 
 ---
 
-## 🎧 Demo
+<details >
+<summary>🔘 How to Run</summary>
+
+### Local
+
+Download **`index.html`** and open it directly in your browser.
+
+That's it.
+
+### Online
+
+🚀 **[Open MJ Browser TTS](https://jannatha-manish.github.io/MJ-Browser-TTS/)**
+
+Both the local `index.html` and the hosted GitHub Pages version run the browser-based TTS application.
+
+</details>
+
+---
+
+<details open>
+<summary>🔘 Demo</summary>
 
 ### 📰 Breaking News
 
-<audio controls preload="metadata" src="assets/breaking_news.wav"></audio>
+<video controls src="assets/breaking_news.mp4"></video>
 
 ### 🇮🇳 Desi Bilingual Chat
 
-<audio controls preload="metadata" src="assets/Desi%20bilingual%20chat.wav"></audio>
+<video controls src="assets/Desi%20bilingual%20chat.mp4"></video>
 
 ### 🌍 Multilingual Meetup
 
-<audio controls preload="metadata" src="assets/Multilingual%20meetup.wav"></audio>
+<video controls src="assets/Multilingual%20meetup.mp4"></video>
 
 ### 📖 Story Based
 
-<audio controls preload="metadata" src="assets/story_based.wav"></audio>
+<video controls src="assets/story_based.mp4"></video>
+
+</details>
 
 ---
 
 <details>
-<summary>🔘 Click to expand — ✨ Features</summary>
+<summary>🔘 Features</summary>
 
 ## ✨ What MJ Gives You
 
@@ -70,7 +95,7 @@ After that, MJ can reload the model in **~3 seconds** and generate speech withou
 ---
 
 <details>
-<summary>🔘 Click to expand — 🎭 Expression Tags</summary>
+<summary>🔘 Expression Tags</summary>
 
 ## 🎭 Expression Tags
 
@@ -84,7 +109,7 @@ After that, MJ can reload the model in **~3 seconds** and generate speech withou
 ---
 
 <details>
-<summary>🔘 Click to expand — ⚔️ TTS Comparison</summary>
+<summary>🔘 TTS Comparison</summary>
 
 # ⚔️ TTS Landscape
 
@@ -108,7 +133,7 @@ After that, MJ can reload the model in **~3 seconds** and generate speech withou
 ---
 
 <details>
-<summary>🔘 Click to expand — 🚀 Speed / Realtime</summary>
+<summary>🔘 Speed / Realtime</summary>
 
 ## 🚀 Speed
 
@@ -137,7 +162,7 @@ Published Supertonic WebGPU benchmark:
 ---
 
 <details>
-<summary>🔘 Click to expand — 💾 One Download. Then Local.</summary>
+<summary>🔘 One Download. Then Local.</summary>
 
 ```text
 FIRST VISIT
@@ -162,7 +187,7 @@ Cache
 ---
 
 <details>
-<summary>🔘 Click to expand — 🔐 Privacy by Architecture</summary>
+<summary>🔘 Privacy by Architecture</summary>
 
 ```text
                YOUR DEVICE
@@ -179,7 +204,7 @@ Text ─────► Supertonic 3 ─────► Audio
 ---
 
 <details>
-<summary>🔘 Click to expand — 📌 Why Supertonic 3?</summary>
+<summary>🔘 Why Supertonic 3?</summary>
 
 > **Big enough to sound good. Small enough to live in your browser.**
 
@@ -202,7 +227,7 @@ Browser-native TTS
 ---
 
 <details>
-<summary>🔘 Click to expand — 👍 Pros & Cons</summary>
+<summary>🔘 Pros & Cons</summary>
 
 ## 👍 / 👎
 
@@ -221,7 +246,7 @@ Browser-native TTS
 ---
 
 <details>
-<summary>🔘 Click to expand — 🛠️ Built With</summary>
+<summary>🔘 Built With</summary>
 
 `Supertonic 3` · `ONNX Runtime Web` · `WebGPU` · `Web Audio API` · `JavaScript / TypeScript`
 
@@ -236,6 +261,6 @@ Browser-native TTS
 
 Built with **Supertonic 3** by Supertone.
 
-[Supertonic — official archived repository](https://github.com/supertone-oss-archive/supertonic-py?utm_source=chatgpt.com)
+[Supertonic — official archived repository](https://github.com/supertone-oss-archive/supertonic-py)
 
 Supertonic 3 is an open-weight, on-device TTS system supporting 31 languages, browser/WebGPU runtimes, CPU execution, 44.1 kHz audio, and 10 built-in voices.
